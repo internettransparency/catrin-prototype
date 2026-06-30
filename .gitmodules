@@ -1,0 +1,4 @@
+[submodule "elasticsearch-catrin-ingest-processor"]
+	path = elasticsearch-catrin-ingest-processor
+    url = git@github.com:Koen1999/elasticsearch-catrin-ingest-processor.git
+    branch = master
