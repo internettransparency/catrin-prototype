@@ -2,3 +2,7 @@
 	path = elasticsearch-catrin-ingest-processor
     url = git@github.com:Koen1999/elasticsearch-catrin-ingest-processor.git
     branch = master
+[submodule "catrin_web_demo"]
+	path = catrin_web_demo
+    url = git@github.com:Excel3884/catrin_web_demo.git
+    branch = main
